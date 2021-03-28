@@ -1,3 +1,5 @@
+*.tfstate
+*.csv
 01-getting-started/.terraform
 01-getting-started/*.tfstate
 01-getting-started/*.tfstate.backup
